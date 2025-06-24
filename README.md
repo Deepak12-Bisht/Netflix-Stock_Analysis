@@ -1,4 +1,4 @@
-📊 Netflix Stock Analysis Dashboard
+📊 #Netflix_Stock_Analysis_Dashboard
 This project is a comprehensive Power BI dashboard that explores Netflix's stock performance over time. It includes dynamic, interactive visualizations to analyze key metrics — High, Low, Open, and Close prices — segmented by year, quarter, month, and day.
 
 🔍 Key Objectives
